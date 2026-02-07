@@ -1,4 +1,5 @@
 {
+  "scriptName": "Jira → Lifeguard Quick Access",
   "version": "2.0",
   "message": "🎉 New feature: Auto-fill now works 50% faster!",
   "changeLog": [
