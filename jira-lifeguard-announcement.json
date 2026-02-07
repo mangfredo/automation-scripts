@@ -1,9 +1,52 @@
-{
-  "scriptId": "jira2lifeguard",
-  "version": "2.0",
-  "message": "🎉 Testing announcement system!",
-  "changeLog": [
-    "✨ This is a test",
-    "🐛 Testing notifications"
-  ]
-}
+[
+  {
+    "scriptId": "jira2lifeguard",
+    "version": "2.0",
+    "theme": "theme1",
+    "message": "🎉 Major improvements to URL detection!",
+    "changeLog": [
+      "✨ Improved URL detection",
+      "🐛 Fixed staging button bug",
+      "⚡ Performance improvements"
+    ]
+  },
+  {
+    "scriptId": "script2",
+    "version": "1.5",
+    "theme": "theme2",
+    "message": "🔥 New features added!",
+    "changeLog": [
+      "✨ Added auto-save",
+      "🐛 Fixed memory leak"
+    ]
+  },
+  {
+    "scriptId": "script3",
+    "version": "3.1",
+    "theme": "theme3",
+    "message": "🚀 Speed boost!",
+    "changeLog": [
+      "⚡ 50% faster processing",
+      "🎨 UI improvements"
+    ]
+  },
+  {
+    "scriptId": "script4",
+    "version": "1.0",
+    "theme": "theme4",
+    "message": "🎊 Brand new script!",
+    "changeLog": [
+      "✨ Initial release"
+    ]
+  },
+  {
+    "scriptId": "script5",
+    "version": "2.3",
+    "theme": "theme5",
+    "message": "💪 Enhanced performance!",
+    "changeLog": [
+      "⚡ 2x faster",
+      "🎨 New UI"
+    ]
+  }
+]
