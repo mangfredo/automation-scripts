@@ -1,7 +1,7 @@
 [
   {
     "scriptId": "jira2lifeguard",
-    "version": "2.0",
+    "version": "2.1",
     "theme": "theme1",
     "message": "🎉 Major improvements to URL detection!",
     "changeLog": [
