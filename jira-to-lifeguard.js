@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Jira to Lifeguard Quick Access
 // @namespace    http://tampermonkey.net/
-// @version      1.9
+// @version      2.0
 // @description  Add buttons to quickly open Lifeguard with staging/prod URLs from Jira tickets
 // @author       Tristan Sereño
 // @match        https://silkroadtech.atlassian.net/*
@@ -481,6 +481,7 @@
     }
 
 })();
+
 
 
 
