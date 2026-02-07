@@ -11,8 +11,8 @@
     ]
   },
   {
-    "scriptId": "script2",
-    "version": "1.5",
+    "scriptId": "jira2qatool",
+    "version": "2.1",
     "theme": "theme2",
     "message": "🔥 New features added!",
     "changeLog": [
